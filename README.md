@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning JavaScript, HTML5, CSS3. I am taking a course in [Rolling Scopes School](https://rs.school/).
+- 🌱 I'm currently learning JavaScript, HTML5, CSS3 and taking a course at [Rolling Scopes School](https://rs.school/).
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
